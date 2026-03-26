@@ -1,5 +1,11 @@
 # saiefelgebali's tmux config
 
+Install TMUX:
+
+```
+brew install tmux
+```
+
 Install the TMUX Plugin Manager
 
 ```
